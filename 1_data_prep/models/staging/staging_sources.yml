@@ -1,0 +1,8 @@
+# yml file is for the settings of the files
+
+version: 2
+sources:
+- name: staging
+  schema: public
+  tables:
+    - name: weather_raw_year
